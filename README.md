@@ -6,4 +6,4 @@
 ![GitHub branch checks state](https://img.shields.io/github/checks-status/bben95/Study-java/main?style=for-the-badge)
 ![Coveralls](https://img.shields.io/coveralls/github/bben95/Study-java?style=for-the-badge)
 ![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/bben95/Study-java/main?style=for-the-badge)
-![ScreenShot]("C:\Frontend\StudyJava\javass.png")
+![ScreenShot](Study-java/javass.png)
