@@ -61,4 +61,31 @@ tr:first-child{
 h3{
  color: blue;
 }
+.sj{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    width: 100%;
+}
+.button1{
+    height: 50px;
+    width: 50px;
+    color: white;
+    font-size: 15px;
+    background-color: green;
+    border-radius:100% ;
+    border: none;
+    position: fixed;
+    right: 12%;
+    bottom: 9%;
+}
+.button1:hover{
+    background-color: white;
+    color: green;
+    font-weight: 800;
+    border: 2px solid green;
+}
+
 
