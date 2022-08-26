@@ -28,10 +28,12 @@
     padding: 10px;
 }
 .item4{
+    height: 100%;
+    width: 100%;
     background-color:#E7971B;
     grid-column-start: 1;
     grid-column-end: 5;
-    align-items: center;
+    padding-left: 35%;
     
 }
 .sidebar li .submenu{ 
